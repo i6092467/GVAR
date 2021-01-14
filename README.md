@@ -47,3 +47,12 @@ Code for the baseline models, apart from VAR, is not included into this project 
 ### Authors
 - Ričards Marcinkevičs ([ricards.marcinkevics@inf.ethz.ch](mailto:ricards.marcinkevics@inf.ethz.ch))
 - Julia E. Vogt ([julia.vogt@inf.ethz.ch](mailto:julia.vogt@inf.ethz.ch))
+
+### References
+
+Below are some references helpful for understanding the methodology:
+- C. W. J. Granger. Investigating causal relations by econometric models and cross-spectral methods. *Econometrica*, 37(3):424–438, 1969.
+- A. Arnold, Y. Liu, and N. Abe. Temporal causal modeling with graphical Granger methods. In *Proceedings of the 13th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, KDD ’07, pages 66–75, 2007.
+- L. Song, M. Kolar, and E. Xing. Time-varying dynamic Bayesian networks. In *Advances in Neural Information Processing Systems 22*, pp. 1732–1740. Curran Associates, Inc., 2009.
+- A. Tank, I. Covert, N. Foti, A. Shojaie, and E. Fox. Neural Granger causality for nonlinear time series, 2018. arXiv:1802.05842.
+- D. Alvarez-Melis and T. Jaakkola. Towards robust interpretability with self-explaining neural networks. In *Advances in Neural Information Processing Systems 31*, pp. 7775–7784. Curran Associates, Inc., 2018.
