@@ -43,3 +43,7 @@ Code for the baseline models, apart from VAR, is not included into this project 
 - cMLP and cLSTM: https://github.com/iancovert/Neural-GC
 - TCDF: https://github.com/M-Nauta/TCDF
 - eSRU: https://github.com/sakhanna/SRU_for_GCI
+
+### Authors
+- Ričards Marcinkevičs ([ricards.marcinkevics@inf.ethz.ch](mailto:ricards.marcinkevics@inf.ethz.ch))
+- Julia E. Vogt ([julia.vogt@inf.ethz.ch](mailto:julia.vogt@inf.ethz.ch))
