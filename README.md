@@ -7,6 +7,7 @@ Exploratory analysis of time series data can yield a better understanding of com
 <p align="center">
   <img align="middle" src="https://github.com/i6092467/GVAR/blob/master/images/scheme_panel_1.png" alt="relational inference" width="500"/>
 </p>
+
 *In addition to structure, our approach allows inferring Granger-causal effect signs*:
 <p align="center">
   <img align="middle" src="https://github.com/i6092467/GVAR/blob/master/images/scheme_panel_2.png" alt="relational inference" width="500"/>
