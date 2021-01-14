@@ -4,7 +4,7 @@
 Exploratory analysis of time series data can yield a better understanding of complex dynamical systems. Granger causality is a practical framework for analysing interactions in sequential data, applied in a wide range of domains. We propose a novel framework for inferring multivariate Granger causality under nonlinear dynamics based on an extension of self-explaining neural networks. This framework is more interpretable than other neural-network-based techniques for inferring Granger causality, since in addition to relational inference, it also allows detecting signs of Granger-causal effects and inspecting their variability over time. In comprehensive experiments on simulated data, we show that our framework performs on par with several powerful baseline methods at inferring Granger causality and that it achieves better performance at inferring interaction signs. The results suggest that our framework is a viable and more interpretable alternative to sparse-input neural networks for inferring Granger causality.
 
 *Realtional inference in time series*:
-<p><img src="https://github.com/i6092467/GVAR/blob/master/images/scheme_panel_1.png" alt="relational inference" width="200" class="center"/></p>
+<p class="aligncenter"><img src="https://github.com/i6092467/GVAR/blob/master/images/scheme_panel_1.png" alt="relational inference" width="200"/></p>
 
 This project iplements an autoregressive model for inferring Granger causality based on self-explaining neural networks – **generalised vector autoregression (GVAR)**. The description of the model and experiments, comparison to baselines, and ablations can be found in the [ICLR 2021 paper](https://openreview.net/forum?id=DEa4JdMWRHp).
 
