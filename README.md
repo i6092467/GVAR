@@ -50,7 +50,7 @@ Code for the baseline models, apart from VAR, is not included into this project 
 
 ### References
 
-Below are some references helpful for understanding the methodology:
+Below are some references helpful for understanding our method:
 - C. W. J. Granger. Investigating causal relations by econometric models and cross-spectral methods. *Econometrica*, 37(3):424–438, 1969.
 - A. Arnold, Y. Liu, and N. Abe. Temporal causal modeling with graphical Granger methods. In *Proceedings of the 13th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, KDD ’07, pages 66–75, 2007.
 - L. Song, M. Kolar, and E. Xing. Time-varying dynamic Bayesian networks. In *Advances in Neural Information Processing Systems 22*, pp. 1732–1740. Curran Associates, Inc., 2009.
