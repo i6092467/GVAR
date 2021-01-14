@@ -1,0 +1,20 @@
+export PYTHONPATH="${PYTHONPATH}:../"
+
+python run_grid_search.py  \
+  --experiment lotka-volterra       \
+  --model gvar                      \
+  --p 10                            \
+  --T 20000                         \
+  --dt 0.01                         \
+  --downsample-factor 10            \
+  --delta_lv 0.2                    \
+  --beta_lv 0.2                     \
+  --sigma_lv 0.1                    \
+  --num-sim 5                       \
+  --K 1                             \
+  --num-hidden-layers 2             \
+  --hidden-layer-size 50            \
+  --batch-size 256                  \
+  --num-epochs 500                  \
+  --initial-lr 0.0001               \
+  --seed 42

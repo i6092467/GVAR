@@ -1,0 +1,14 @@
+export PYTHONPATH="${PYTHONPATH}:../"
+
+python run_grid_search.py  \
+  --experiment linear-var           \
+  --model gvar                      \
+  --T 500                           \
+  --num-sim 10                      \
+  --K 1                             \
+  --num-hidden-layers 2             \
+  --hidden-layer-size 50            \
+  --batch-size 64                   \
+  --num-epochs 1000                 \
+  --initial-lr 0.0001               \
+  --seed 42
