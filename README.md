@@ -30,7 +30,7 @@ Note, that the current implementation of GVAR requires a GPU supported by CUDA 1
 - **fMRI**: `run_grid_search_fMRI`
 - **Lotka–Volterra**: `run_grid_search_lotka_volterra`
 
-The data used to generate results in the paper are stored in the folder `datasets/experiment_data`.
+The data used to generate results in the [paper](https://openreview.net/forum?id=DEa4JdMWRHp) are stored in the folder `datasets/experiment_data`.
 
 Further details are documented within the code.
 
