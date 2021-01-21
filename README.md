@@ -13,7 +13,7 @@ Exploratory analysis of time series data can yield a better understanding of com
   <img align="middle" src="https://github.com/i6092467/GVAR/blob/master/images/scheme_panel_2.png" alt="interpretable relational inference" width="500"/>
 </p>
 
-This project iplements an autoregressive model for inferring Granger causality based on self-explaining neural networks – **generalised vector autoregression (GVAR)**. The description of the model, inference framework, experiments, comparison to baselines, and ablations can be found in the [ICLR 2021 paper](https://openreview.net/forum?id=DEa4JdMWRHp).
+This project iplements an autoregressive model for inferring Granger causality based on self-explaining neural networks – **generalised vector autoregression (GVAR)**. The description of the model, inference framework, experiments, comparison to baselines, and ablations can be found in the [ICLR 2021 paper](https://openreview.net/forum?id=DEa4JdMWRHp). A short explanation of the method is provided in [this spotlight talk](https://slideslive.com/38941433/interpretable-models-for-granger-causality-using-selfexplaining-neural-networks).
 
 ### Requirements
 All the libraries required are in the conda environment `environment.yml`. To install it, follow the instructions below:
