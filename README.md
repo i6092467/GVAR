@@ -61,3 +61,14 @@ Below are some references helpful for understanding our method:
 - L. Song, M. Kolar, and E. Xing. Time-varying dynamic Bayesian networks. In *Advances in Neural Information Processing Systems 22*, pp. 1732–1740. Curran Associates, Inc., 2009.
 - A. Tank, I. Covert, N. Foti, A. Shojaie, and E. Fox. Neural Granger causality for nonlinear time series, 2018. arXiv:1802.05842.
 - D. Alvarez-Melis and T. Jaakkola. Towards robust interpretability with self-explaining neural networks. In *Advances in Neural Information Processing Systems 31*, pp. 7775–7784. Curran Associates, Inc., 2018.
+
+### Citation
+
+```
+@inproceedings{Marcinkevics2021,
+  title={Interpretable Models for Granger Causality Using Self-explaining Neural Networks},
+  author={Ri{\v{c}}ards Marcinkevi{\v{c}}s and Julia E Vogt},
+  booktitle={International Conference on Learning Representations},
+  year={2021},
+}
+```
