@@ -23,8 +23,8 @@ This project iplements an autoregressive model for inferring Granger causality b
 ### Requirements
 All the libraries required are in the conda environment `environment.yml`. To install it, follow the instructions below:
 ```
-conda env create -f environment.yml  # install dependencies
-conda activate SENGC  # activate environment
+conda env create -f environment.yml   # install dependencies
+conda activate SENGC                  # activate environment
 ```
 
 Note, that the current implementation of GVAR requires a GPU supported by CUDA 10.1.0.
